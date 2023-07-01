@@ -6,7 +6,6 @@ service 995
 with protocol POP3
 user <account> is '<local-user>' here keep
 options ssl
-smtphost postfix
 
 
 
